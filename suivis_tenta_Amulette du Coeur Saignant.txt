@@ -1,0 +1,212 @@
+
+ tenta_plus =0     tenta = 1     3% Résistance Terre
+ |3 % RePerTerre | 699.6 
+tenta_plus =0     tenta = 2     2% Résistance Terre
+ |2 % RePerTerre | 678.6 
+tenta_plus =0     tenta = 3     3% Résistance Terre
+ |3 % RePerTerre | 666.4 
+tenta_plus =0     tenta = 4     2% Résistance Terre
+ |2 % RePerTerre | 711.6 
+tenta_plus =0     tenta = 5     2% Résistance Terre
+ |2 % RePerTerre | 675.8 
+
+ tenta_plus =0     tenta = 1     399 80 46 6 0 10 10 13 10 7 7 15 |1 % RePerTerre | 708.8 
+tenta_plus =0     tenta = 2     400 78 46 6 0 10 10 1 10 7 7 15 |2 % RePerTerre | 671.0 
+tenta_plus =0     tenta = 3     400 79 47 6 0 10 10 0 10 7 7 15 |3 % RePerTerre | 672.0 
+
+ tenta_plus =0     tenta = 1     392 80 48 6 0 10 10 7 10 7 7 15 |1 % RePerTerre | 695.4 
+tenta_plus =0     tenta = 2     394 80 46 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 668.8 
+tenta_plus =0     tenta = 3     400 80 45 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 667.0 
+tenta_plus =0     tenta = 4     395 80 45 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 666.0 
+tenta_plus =0     tenta = 5     396 78 45 6 0 10 10 1 10 7 7 15 |3 % RePerTerre | 667.2 
+tenta_plus =0     tenta = 6     397 80 47 6 0 10 10 4 10 7 7 15 |1 % RePerTerre | 684.4 
+tenta_plus =0     tenta = 7     397 80 47 6 0 10 10 0 10 7 7 15 0 672.4 
+tenta_plus =0     tenta = 8     400 80 48 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 676.0 
+tenta_plus =0     tenta = 9     395 80 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 672.0 
+tenta_plus =0     tenta = 10     398 79 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 671.6 
+tenta_plus =0     tenta = 11     397 80 46 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 669.4 
+tenta_plus =0     tenta = 12     396 80 46 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 669.2 
+tenta_plus =0     tenta = 13     392 80 45 6 0 10 10 11 10 7 7 15 |2 % RePerTerre | 698.4 
+tenta_plus =0     tenta = 14     397 80 45 6 0 10 10 4 10 7 7 15 0 678.4 
+tenta_plus =0     tenta = 15     397 80 45 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 666.4 
+tenta_plus =0     tenta = 16     400 79 46 6 0 10 10 0 10 7 7 15 |3 % RePerTerre | 669.0 
+tenta_plus =0     tenta = 17     399 80 47 6 0 10 10 0 10 7 7 15 0 672.8 
+tenta_plus =0     tenta = 18     399 78 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 670.8 
+tenta_plus =0     tenta = 19     396 78 50 6 0 10 10 0 10 7 7 15 0 679.2 
+tenta_plus =0     tenta = 20     400 79 45 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 666.0 
+tenta_plus =0     tenta = 21     393 80 45 6 0 10 10 10 10 7 7 15 |1 % RePerTerre | 695.6 
+tenta_plus =0     tenta = 22     400 79 45 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 666.0 
+tenta_plus =0     tenta = 23     398 78 47 6 0 10 10 14 10 7 7 15 0 712.6 
+tenta_plus =0     tenta = 24     397 80 47 6 0 10 10 0 10 7 7 15 |3 % RePerTerre | 672.4 
+tenta_plus =0     tenta = 25     399 79 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 671.8 
+tenta_plus =0     tenta = 26     396 80 45 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 666.2 
+tenta_plus =0     tenta = 27     398 80 46 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 669.6 
+tenta_plus =0     tenta = 28     400 80 47 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 673.0 
+tenta_plus =0     tenta = 29     399 80 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 672.8 
+tenta_plus =0     tenta = 30     400 78 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 671.0 
+tenta_plus =0     tenta = 31     399 80 48 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 675.8 
+tenta_plus =0     tenta = 32     396 80 49 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 678.2 
+tenta_plus =0     tenta = 33     398 78 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 670.6 
+tenta_plus =0     tenta = 34     399 80 47 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 672.8 
+tenta_plus =0     tenta = 35     400 80 47 6 0 10 10 0 10 7 7 15 |3 % RePerTerre | 673.0 
+
+ tenta_plus =0     tenta = 1     393 79 48 6 0 10 10 8 10 6 7 15 |3 % RePerTerre | 83.87% poid actuel :693.6 max :827.0 
+
+ tenta_plus =0     tenta = 1     400 80 45 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 80.65% poid actuel :667.0 max :827.0 
+tenta_plus =0     tenta = 2     397 80 49 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 82.03% poid actuel :678.4 max :827.0 
+
+ tenta_plus =0     tenta = 1     392 80 47 6 0 10 10 4 10 7 7 15 |1 % RePerTerre | 82.64% poid actuel :683.4 max :827.0 
+tenta_plus =0     tenta = 2     399 80 46 6 0 10 10 0 10 7 7 15 |1 % RePerTerre | 80.99% poid actuel :669.8 max :827.0 
+tenta_plus =0     tenta = 3     396 80 45 6 0 10 10 12 10 7 7 15 |1 % RePerTerre | 84.91% poid actuel :702.2 max :827.0 
+tenta_plus =0     tenta = 4     399 80 45 6 0 10 10 0 10 7 7 15 |2 % RePerTerre | 80.63% poid actuel :666.8 max :827.0 
+
+ tenta_plus =0     tenta = 1     396 80 46 6 0 10 10 7 10 7 7 15 |2 % RePerTerre | 83.46% poid actuel :690.2 max :827.0 
+tenta_plus =0     tenta = 2     392 80 47 6 0 10 10 4 10 7 7 15 |2 % RePerTerre | 82.64% poid actuel :683.4 max :827.0 
+tenta_plus =0     tenta = 0     397 79 46 6 0 10 10 10 10 7 7 15 5 - Fuite 84.45% poid actuel :698.4 max :827.0 
+tenta_plus =0     tenta = 0     399 80 47 6 0 10 10 1 10 7 7 15 5 - Fuite 81.72% poid actuel :675.8 max :827.0 
+tenta_plus =0     tenta = 0     399 80 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.99% poid actuel :669.8 max :827.0 
+tenta_plus =0     tenta = 0     397 80 47 6 0 10 10 2 10 7 7 15 5 - Fuite 82.03% poid actuel :678.4 max :827.0 
+tenta_plus =0     tenta = 0     396 80 45 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.56% poid actuel :666.2 max :827.0 
+tenta_plus =0     tenta = 0     396 78 45 6 0 10 10 2 10 7 7 15 5 - Fuite 81.04% poid actuel :670.2 max :827.0 
+tenta_plus =0     tenta = 0     397 79 48 6 0 10 10 8 10 7 7 15 5 - Fuite 84.45% poid actuel :698.4 max :827.0 
+tenta_plus =0     tenta = 0     399 80 47 6 0 10 10 7 10 7 7 15 5 - Fuite 83.89% poid actuel :693.8 max :827.0 
+tenta_plus =0     tenta = 0     396 79 47 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 81.16% poid actuel :671.2 max :827.0 
+tenta_plus =0     tenta = 0     400 79 45 6 0 10 10 9 10 7 7 15 5 - Fuite 83.8% poid actuel :693.0 max :827.0 
+tenta_plus =0     tenta = 0     396 79 47 6 0 10 10 8 10 7 7 15 5 - Fuite 84.06% poid actuel :695.2 max :827.0 
+tenta_plus =0     tenta = 0     391 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.16% poid actuel :671.2 max :827.0 
+tenta_plus =0     tenta = 0     393 79 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.73% poid actuel :667.6 max :827.0 
+tenta_plus =0     tenta = 0     394 80 50 6 0 10 10 0 10 7 7 15 5 - Fuite 82.32% poid actuel :680.8 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 0 10 7 7 14 5 - Fuite 80.05% poid actuel :662.0 max :827.0 
+tenta_plus =0     tenta = 0     399 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.63% poid actuel :666.8 max :827.0 
+tenta_plus =0     tenta = 0     398 79 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.85% poid actuel :668.6 max :827.0 
+tenta_plus =0     tenta = 0     399 80 48 6 0 10 10 0 10 7 7 15 5 - Fuite 81.72% poid actuel :675.8 max :827.0 
+tenta_plus =0     tenta = 0     398 80 47 6 0 10 10 0 10 7 7 14 5 - Fuite 80.73% poid actuel :667.6 max :827.0 
+tenta_plus =0     tenta = 0     399 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.63% poid actuel :666.8 max :827.0 
+tenta_plus =0     tenta = 0     399 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.63% poid actuel :666.8 max :827.0 
+tenta_plus =0     tenta = 0     399 79 47 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 81.23% poid actuel :671.8 max :827.0 
+tenta_plus =0     tenta = 0     399 80 49 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 82.08% poid actuel :678.8 max :827.0 
+tenta_plus =0     tenta = 0     400 80 46 6 0 10 10 8 10 7 7 15 5 - Fuite 83.92% poid actuel :694.0 max :827.0 
+tenta_plus =0     tenta = 0     376 80 46 6 0 8 8 0 14 6 6 12 5 - Fuite 77.78% poid actuel :643.2 max :827.0 
+tenta_plus =0     tenta = 0     394 80 45 6 0 10 10 14 10 7 7 15 5 - Fuite 85.59% poid actuel :707.8 max :827.0 
+tenta_plus =0     tenta = 0     396 79 47 6 0 10 10 2 10 7 7 15 5 - Fuite 81.89% poid actuel :677.2 max :827.0 
+tenta_plus =0     tenta = 0     399 79 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.23% poid actuel :671.8 max :827.0 
+tenta_plus =0     tenta = 0     393 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.85% poid actuel :668.6 max :827.0 
+tenta_plus =0     tenta = 0     397 80 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.94% poid actuel :669.4 max :827.0 
+tenta_plus =0     tenta = 0     394 80 48 6 0 10 10 0 10 7 7 15 5 - Fuite 81.6% poid actuel :674.8 max :827.0 
+tenta_plus =0     tenta = 0     399 80 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.99% poid actuel :669.8 max :827.0 
+tenta_plus =0     tenta = 0     397 78 47 6 0 10 10 11 10 7 7 15 1 % Dommages aux sorts 85.05% poid actuel :703.4 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 9 10 7 7 15 1 % Dommages aux sorts 83.92% poid actuel :694.0 max :827.0 
+tenta_plus =0     tenta = 0     391 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.44% poid actuel :665.2 max :827.0 
+tenta_plus =0     tenta = 0     396 80 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.92% poid actuel :669.2 max :827.0 
+tenta_plus =0     tenta = 0     395 79 45 6 0 10 10 7 10 7 7 15 5 - Fuite 82.95% poid actuel :686.0 max :827.0 
+tenta_plus =0     tenta = 0     396 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.28% poid actuel :672.2 max :827.0 
+tenta_plus =0     tenta = 0     396 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.28% poid actuel :672.2 max :827.0 
+tenta_plus =0     tenta = 0     398 79 47 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 81.21% poid actuel :671.6 max :827.0 
+tenta_plus =0     tenta = 0     396 78 48 6 0 10 10 0 10 7 7 14 5 - Fuite 80.8% poid actuel :668.2 max :827.0 
+tenta_plus =0     tenta = 0     398 80 46 6 0 10 10 4 10 7 7 15 1 % Dommages aux sorts 82.42% poid actuel :681.6 max :827.0 
+tenta_plus =0     tenta = 0     399 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.63% poid actuel :666.8 max :827.0 
+tenta_plus =0     tenta = 0     399 80 50 6 0 10 10 0 10 7 7 15 5 - Fuite 82.44% poid actuel :681.8 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.65% poid actuel :667.0 max :827.0 
+tenta_plus =0     tenta = 0     397 80 46 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.94% poid actuel :669.4 max :827.0 
+tenta_plus =0     tenta = 0     399 80 45 6 0 10 10 3 10 7 7 15 5 - Fuite 81.72% poid actuel :675.8 max :827.0 
+tenta_plus =0     tenta = 0     396 80 50 6 0 9 9 11 10 7 7 14 5 - Fuite 84.55% poid actuel :699.2 max :827.0 
+tenta_plus =0     tenta = 0     399 80 47 6 0 10 9 0 9 7 7 14 5 - Fuite 79.42% poid actuel :656.8 max :827.0 
+tenta_plus =0     tenta = 0     397 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.94% poid actuel :669.4 max :827.0 
+tenta_plus =0     tenta = 0     397 79 45 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.46% poid actuel :665.4 max :827.0 
+tenta_plus =0     tenta = 0     398 80 46 6 0 10 10 11 10 7 7 14 5 - Fuite 84.35% poid actuel :697.6 max :827.0 
+tenta_plus =0     tenta = 0     398 78 47 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 81.09% poid actuel :670.6 max :827.0 
+tenta_plus =0     tenta = 0     400 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 81.02% poid actuel :670.0 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 0 10 7 7 15 1 % Dommages aux sorts 80.65% poid actuel :667.0 max :827.0 
+tenta_plus =0     tenta = 0     396 80 46 6 0 10 10 7 10 7 7 15 1 % Dommages aux sorts 83.46% poid actuel :690.2 max :827.0 
+tenta_plus =0     tenta = 0     381 79 45 6 0 9 9 4 12 7 6 14 5 - Fuite 80.31% poid actuel :664.2 max :827.0 
+tenta_plus =0     tenta = 0     397 80 50 6 0 10 10 10 10 7 7 15 5 - Fuite 86.02% poid actuel :711.4 max :827.0 
+tenta_plus =0     tenta = 0     442 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.39% poid actuel :681.4 max :827.0 
+tenta_plus =0     tenta = 0     490 80 49 6 0 10 10 5 10 7 7 15 5 - Fuite 86.09% poid actuel :712.0 max :827.0 
+tenta_plus =0     tenta = 0     448 79 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.42% poid actuel :681.6 max :827.0 
+tenta_plus =0     tenta = 0     397 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.58% poid actuel :666.4 max :827.0 
+tenta_plus =0     tenta = 0     396 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.56% poid actuel :666.2 max :827.0 
+tenta_plus =0     tenta = 0     446 80 47 6 0 10 10 4 10 7 7 15 5 - Fuite 83.94% poid actuel :694.2 max :827.0 
+tenta_plus =0     tenta = 0     398 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.33% poid actuel :672.6 max :827.0 
+tenta_plus =0     tenta = 0     446 80 50 6 0 10 10 0 10 7 7 15 5 - Fuite 83.58% poid actuel :691.2 max :827.0 
+tenta_plus =0     tenta = 0     446 79 50 6 0 10 10 0 10 7 7 15 5 - Fuite 83.46% poid actuel :690.2 max :827.0 
+tenta_plus =0     tenta = 0     444 78 46 6 0 10 10 0 10 7 7 15 5 - Fuite 81.84% poid actuel :676.8 max :827.0 
+tenta_plus =0     tenta = 0     397 80 47 6 0 10 10 6 10 7 7 15 5 - Fuite 83.48% poid actuel :690.4 max :827.0 
+tenta_plus =0     tenta = 0     394 80 47 6 0 10 10 7 10 7 7 15 5 - Fuite 83.77% poid actuel :692.8 max :827.0 
+tenta_plus =0     tenta = 0     396 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.28% poid actuel :672.2 max :827.0 
+tenta_plus =0     tenta = 0     446 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.13% poid actuel :679.2 max :827.0 
+tenta_plus =0     tenta = 0     397 79 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.46% poid actuel :665.4 max :827.0 
+tenta_plus =0     tenta = 0     396 70 50 6 0 10 8 12 9 7 5 14 5 - Fuite 81.28% poid actuel :672.2 max :827.0 
+tenta_plus =0     tenta = 0     450 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.22% poid actuel :680.0 max :827.0 
+tenta_plus =0     tenta = 0     445 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.1% poid actuel :679.0 max :827.0 
+tenta_plus =0     tenta = 0     391 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.16% poid actuel :671.2 max :827.0 
+tenta_plus =0     tenta = 0     499 79 45 6 0 10 10 0 10 7 7 15 5 - Fuite 82.93% poid actuel :685.8 max :827.0 
+tenta_plus =0     tenta = 0     446 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 81.77% poid actuel :676.2 max :827.0 
+tenta_plus =0     tenta = 0     449 78 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.32% poid actuel :680.8 max :827.0 
+tenta_plus =0     tenta = 0     396 80 45 6 0 10 10 12 10 7 7 15 5 - Fuite 84.91% poid actuel :702.2 max :827.0 
+tenta_plus =0     tenta = 0     445 80 48 6 0 10 10 0 10 7 7 15 5 - Fuite 82.83% poid actuel :685.0 max :827.0 
+tenta_plus =0     tenta = 0     398 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.97% poid actuel :669.6 max :827.0 
+tenta_plus =0     tenta = 0     448 80 45 6 0 10 10 8 10 7 7 15 5 - Fuite 84.72% poid actuel :700.6 max :827.0 
+tenta_plus =0     tenta = 0     400 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.38% poid actuel :673.0 max :827.0 
+tenta_plus =0     tenta = 0     390 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.41% poid actuel :665.0 max :827.0 
+tenta_plus =0     tenta = 0     445 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.1% poid actuel :679.0 max :827.0 
+tenta_plus =0     tenta = 0     449 79 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.44% poid actuel :681.8 max :827.0 
+tenta_plus =0     tenta = 0     449 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.56% poid actuel :682.8 max :827.0 
+tenta_plus =0     tenta = 0     446 78 45 6 0 10 10 0 10 7 7 15 5 - Fuite 81.52% poid actuel :674.2 max :827.0 
+tenta_plus =0     tenta = 0     446 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.13% poid actuel :679.2 max :827.0 
+tenta_plus =0     tenta = 0     450 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.22% poid actuel :680.0 max :827.0 
+tenta_plus =0     tenta = 0     398 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.33% poid actuel :672.6 max :827.0 
+tenta_plus =0     tenta = 0     446 80 49 6 0 10 10 0 10 7 7 15 5 - Fuite 83.22% poid actuel :688.2 max :827.0 
+tenta_plus =0     tenta = 0     447 80 49 6 0 10 10 0 10 7 7 15 5 - Fuite 83.24% poid actuel :688.4 max :827.0 
+tenta_plus =0     tenta = 0     450 80 50 6 0 10 10 0 10 7 7 15 5 - Fuite 83.68% poid actuel :692.0 max :827.0 
+tenta_plus =0     tenta = 0     397 80 47 6 0 10 10 11 10 7 7 15 5 - Fuite 85.3% poid actuel :705.4 max :827.0 
+tenta_plus =0     tenta = 0     392 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.82% poid actuel :668.4 max :827.0 
+tenta_plus =0     tenta = 0     450 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.22% poid actuel :680.0 max :827.0 
+tenta_plus =0     tenta = 0     396 79 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.8% poid actuel :668.2 max :827.0 
+tenta_plus =0     tenta = 0     448 79 45 6 0 10 10 0 10 7 7 15 5 - Fuite 81.69% poid actuel :675.6 max :827.0 
+tenta_plus =0     tenta = 0     446 80 49 6 0 10 10 0 10 7 7 15 5 - Fuite 83.22% poid actuel :688.2 max :827.0 
+tenta_plus =0     tenta = 0     378 80 46 6 0 10 10 13 9 7 7 14 5 - Fuite 83.87% poid actuel :693.6 max :827.0 
+tenta_plus =0     tenta = 0     396 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.56% poid actuel :666.2 max :827.0 
+tenta_plus =0     tenta = 0     448 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 82.54% poid actuel :682.6 max :827.0 
+tenta_plus =0     tenta = 0     395 80 48 6 0 10 10 0 10 7 7 15 5 - Fuite 81.62% poid actuel :675.0 max :827.0 
+tenta_plus =0     tenta = 0     496 78 45 6 0 10 10 11 10 7 7 15 5 - Fuite 86.72% poid actuel :717.2 max :827.0 
+tenta_plus =0     tenta = 0     448 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 82.18% poid actuel :679.6 max :827.0 
+tenta_plus =0     tenta = 0     445 80 49 6 0 10 10 0 10 7 7 15 5 - Fuite 83.19% poid actuel :688.0 max :827.0 
+tenta_plus =0     tenta = 0     450 80 49 6 0 10 10 7 10 7 7 15 5 - Fuite 85.85% poid actuel :710.0 max :827.0 
+tenta_plus =0     tenta = 0     450 80 47 6 0 10 10 6 10 7 7 15 5 - Fuite 84.76% poid actuel :701.0 max :827.0 
+tenta_plus =0     tenta = 0     400 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.38% poid actuel :673.0 max :827.0 
+tenta_plus =0     tenta = 0     400 79 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.26% poid actuel :672.0 max :827.0 
+tenta_plus =0     tenta = 0     398 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.33% poid actuel :672.6 max :827.0 
+tenta_plus =0     tenta = 0     395 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.89% poid actuel :669.0 max :827.0 
+tenta_plus =0     tenta = 0     397 80 50 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 82.39% poid actuel :681.4 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 80.65% poid actuel :667.0 max :827.0 
+tenta_plus =0     tenta = 0     400 80 46 6 0 10 10 0 9 7 7 14 5 - Fuite 79.69% poid actuel :659.0 max :827.0 
+tenta_plus =0     tenta = 0     400 78 45 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 80.41% poid actuel :665.0 max :827.0 
+tenta_plus =0     tenta = 0     396 80 46 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 80.92% poid actuel :669.2 max :827.0 
+tenta_plus =0     tenta = 0     391 79 50 6 0 10 10 8 10 7 7 15 3 % Résistance Terre 85.03% poid actuel :703.2 max :827.0 
+tenta_plus =0     tenta = 0     372 79 50 6 0 10 0 8 8 3 7 15 5 - Fuite 75.14% poid actuel :621.4 max :827.0 
+tenta_plus =0     tenta = 0     398 80 50 6 0 10 10 11 9 7 7 15 5 - Fuite 85.68% poid actuel :708.6 max :827.0 
+tenta_plus =0     tenta = 0     400 80 45 6 0 10 10 0 10 7 7 15 5 - Fuite 80.65% poid actuel :667.0 max :827.0 
+tenta_plus =0     tenta = 0     390 79 45 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 80.29% poid actuel :664.0 max :827.0 
+tenta_plus =0     tenta = 0     396 79 47 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.16% poid actuel :671.2 max :827.0 
+tenta_plus =0     tenta = 0     400 80 48 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 81.74% poid actuel :676.0 max :827.0 
+tenta_plus =0     tenta = 0     396 79 45 6 0 10 10 4 10 7 7 15 3 % Résistance Terre 81.89% poid actuel :677.2 max :827.0 
+tenta_plus =0     tenta = 0     397 78 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.06% poid actuel :670.4 max :827.0 
+tenta_plus =0     tenta = 0     398 79 45 6 0 10 10 0 10 7 7 15 3 % Résistance Terre 80.48% poid actuel :665.6 max :827.0 
+tenta_plus =0     tenta = 0     393 80 45 6 0 10 10 0 10 7 7 15 3 % Résistance Terre 80.48% poid actuel :665.6 max :827.0 
+tenta_plus =0     tenta = 0     397 80 50 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 82.39% poid actuel :681.4 max :827.0 
+tenta_plus =0     tenta = 0     400 79 47 6 0 10 10 2 10 7 7 15 3 % Résistance Terre 81.98% poid actuel :678.0 max :827.0 
+tenta_plus =0     tenta = 0     400 80 47 6 0 10 10 0 10 7 7 15 5 - Fuite 81.38% poid actuel :673.0 max :827.0 
+tenta_plus =0     tenta = 0     400 79 45 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 80.53% poid actuel :666.0 max :827.0 
+tenta_plus =0     tenta = 0     395 80 49 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.98% poid actuel :678.0 max :827.0 
+tenta_plus =0     tenta = 0     396 78 45 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 80.31% poid actuel :664.2 max :827.0 
+tenta_plus =0     tenta = 0     393 79 46 6 0 10 10 0 10 7 7 15 3 % Résistance Terre 80.73% poid actuel :667.6 max :827.0 
+tenta_plus =0     tenta = 0     397 78 48 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.43% poid actuel :673.4 max :827.0 
+tenta_plus =0     tenta = 0     400 80 49 6 0 10 10 0 10 7 7 15 3 % Résistance Terre 82.1% poid actuel :679.0 max :827.0 
+tenta_plus =0     tenta = 0     400 80 47 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.38% poid actuel :673.0 max :827.0 
+tenta_plus =0     tenta = 0     397 79 47 6 0 10 10 8 10 7 7 14 5 - Fuite 83.48% poid actuel :690.4 max :827.0 
+tenta_plus =0     tenta = 0     396 80 47 6 0 10 10 1 9 7 7 15 5 - Fuite 80.92% poid actuel :669.2 max :827.0 
+tenta_plus =0     tenta = 0     397 80 47 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.31% poid actuel :672.4 max :827.0 
+tenta_plus =0     tenta = 0     399 80 46 6 0 10 10 0 10 7 7 15 5 - Fuite 80.99% poid actuel :669.8 max :827.0 
+tenta_plus =0     tenta = 0     400 79 50 6 0 9 8 9 10 6 6 14 5 - Fuite 81.86% poid actuel :677.0 max :827.0 
+tenta_plus =0     tenta = 0     392 80 45 6 0 10 10 0 10 7 7 15 2 % Résistance Terre 80.46% poid actuel :665.4 max :827.0 
+tenta_plus =0     tenta = 0     392 80 47 6 0 10 10 0 10 7 7 15 1 % Résistance Terre 81.19% poid actuel :671.4 max :827.0 

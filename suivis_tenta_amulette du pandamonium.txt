@@ -1,0 +1,404 @@
+
+ tenta_plus =0     tenta = 1     400 Vitalité
+
+67 Force
+
+37 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+492 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+7 Esquive PA
+ 881.2 
+tenta_plus =0     tenta = 2     400 Vitalité
+
+67 Force
+
+37 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+41 Initiative
+
+6% Résistance Neutre
+7% Résistance Air
+
+7 Esquive PA
+ 881.2 
+
+ tenta_plus =0     tenta = 1     396 Vitalité
+
+70 Force
+
+37 Sagesse
+
+1PA
+
+1 Portée
+
+7 Dommages Neutre
+8 Dommages Terre
+19 Soins
+
+77 Initiative
+
+7% Résistance Neutre
+6% Résistance Air
+
+8 Esquive PA
+ 910.4 
+tenta_plus =0     tenta = 2     257 Vitalité
+
+69 Force
+
+36 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+18 Soins
+
+496 Initiative
+
+7% Résistance Neutre
+5% Résistance Air
+
+Esquive PA
+ 889.6 
+tenta_plus =0     tenta = 3     396 Vitalité
+
+70 Force
+
+37 Sagesse
+
+1PA
+
+Portée
+
+7 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+499 Initiative
+
+6% Résistance Neutre
+7% Résistance Air
+
+2 Esquive PA
+ 884.1 
+tenta_plus =0     tenta = 4     396 Vitalité
+
+70 Force
+
+37 Sagesse
+
+PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+499 Initiative
+
+7% Résistance Neutre
+1% Résistance Air
+
+7 Esquive PA
+ 884.1 
+tenta_plus =0     tenta = 5     398 Vitalité
+
+70 Force
+
+37 Sagesse
+
+1PA
+
+Portée
+
+12 Dommages Neutre
+2Dommages Terre
+17 Soins
+
+497 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+7 Esquive PA
+ 884.3 
+
+ tenta_plus =0     tenta = 1     398 Vitalité
+
+68 Force
+
+36 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+Dommages Terre
+
+17 Soins
+
+494 Initiative
+
+4% Résistance Neutre
+5% Résistance Air
+
+7 Esquive PA
+ 879.0 
+tenta_plus =0     tenta = 2     398 Vitalité
+
+69 Force
+
+25 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+10 Dommages Terre
+17 Soins
+
+332 Initiative
+
+7% Résistance Neutre
+6% Résistance Air
+
+6 Esquive PA
+ 886.1 
+
+ tenta_plus =0     tenta = 1     399 Vitalité
+10 Force
+
+29 Sagesse
+
+1PA
+
+1 Portée
+
+11 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+499 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+8 Esquive PA
+ 887.9 
+tenta_plus =0     tenta = 2     395 Vitalité
+
+70 Force
+
+36 Sagesse
+
+PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+111 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+8 Esquive PA
+ 887.9 
+tenta_plus =0     tenta = 3     395 Vitalité
+
+70 Force
+
+36 Sagesse
+
+PA
+
+1 Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+491 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+8 Esquive PA
+ 887.1 
+tenta_plus =0     tenta = 4     338 Vitalité
+
+70 Force
+
+36 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+4 Dommages Terre
+17 Soins
+
+491 Initiative
+
+6% Résistance Neutre
+7% Résistance Air
+
+5 Esquive PA
+ 887.1 
+tenta_plus =0     tenta = 5     396 Vitalité
+
+69 Force
+
+36 Sagesse
+
+1PA
+
+Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+302 Initiative
+
+7% Résistance Neutre
+% Résistance Air
+
+8 Esquive PA
+ 886.6 
+tenta_plus =0     tenta = 6     400 Vitalité
+
+68 Force
+
+37 Sagesse
+
+1PA
+
+Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+495 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+8 Esquive PA
+ 893.5 
+tenta_plus =0     tenta = 7     397 Vitalité
+
+32 Force
+
+36 Sagesse
+
+1PA
+
+Portée
+
+12 Dommages Neutre
+11 Dommages Terre
+17 Soins
+
+399 Initiative
+
+7% Résistance Neutre
+6% Résistance Air
+
+8 Esquive PA
+ 890.9 
+
+ tenta_plus =0     tenta = 1     371 Vitalité
+
+68 Force
+
+38 Sagesse
+
+1PA
+
+Portée
+
+12 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+498 Initiative
+
+2% Résistance Neutre
+6% Résistance Air
+
+8 Esquive PA
+ 892.4 
+tenta_plus =0     tenta = 2     398 Vitalité
+
+69 Force
+
+38 Sagesse
+
+1PA
+
+1 Portée
+
+12 Dommages Neutre
+2 Dommages Terre
+17 Soins
+
+497 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+8 Esquive PA
+ 893.3 
+tenta_plus =0     tenta = 3     399 Vitalité
+
+69 Force
+
+29 Sagesse
+
+1PA
+
+1 Portée
+
+11 Dommages Neutre
+12 Dommages Terre
+17 Soins
+
+492 Initiative
+
+7% Résistance Neutre
+7% Résistance Air
+
+1 Esquive PA
+ 887.0 

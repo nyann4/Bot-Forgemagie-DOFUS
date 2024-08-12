@@ -1,0 +1,129 @@
+
+ tenta_plus =0     tenta = 1     348 70 36 1 15 14 6 471.6 
+
+ tenta_plus =0     tenta = 1     349 73 34 1 14 15 6 467.8 
+
+ tenta_plus =1     tenta = 1     348 73 34 1 14 15 8 481.6 
+tenta_plus =1     tenta = 2     347 74 35 1 14 14 6 467.4 
+
+ tenta_plus =0     tenta = 1     346 72 34 1 14 14 6 462.2 
+tenta_plus =0     tenta = 2     349 71 34 1 14 14 6 461.8 
+tenta_plus =0     tenta = 3     348 71 35 1 14 14 6 464.6 
+tenta_plus =0     tenta = 4     349 73 36 1 14 15 6 473.8 
+
+ tenta_plus =0     tenta = 1     344 74 35 1 14 14 6 466.8 
+
+ tenta_plus =0     tenta = 1     346 72 36 1 14 14 6 468.2 
+tenta_plus =0     tenta = 2     349 71 34 1 14 14 6 461.8 
+tenta_plus =0     tenta = 3     346 74 34 1 14 14 7 471.2 
+
+ tenta_plus =1     tenta = 1     346 74 36 1 15 15 7 486.2 
+
+ tenta_plus =0     tenta = 1     344 74 35 1 14 14 6 466.8 
+tenta_plus =0     tenta = 2     340 73 35 1 14 14 6 465.0 
+tenta_plus =0     tenta = 3     346 73 34 1 14 14 6 463.2 
+
+ tenta_plus =0     tenta = 1     344 73 35 1 14 14 6 465.8 
+tenta_plus =0     tenta = 2     349 74 36 1 14 14 6 470.8 
+
+ tenta_plus =0     tenta = 1     348 75 35 1 14 14 6 468.6 
+tenta_plus =0     tenta = 2     345 73 35 1 14 14 6 466.0 
+tenta_plus =0     tenta = 3     342 70 36 1 14 14 6 465.4 
+tenta_plus =0     tenta = 4     342 70 35 1 14 14 6 462.4 
+tenta_plus =0     tenta = 5     349 75 34 1 14 14 6 465.8 
+tenta_plus =0     tenta = 6     346 72 36 1 14 14 6 468.2 
+tenta_plus =0     tenta = 7     347 70 35 1 14 14 6 463.4 
+tenta_plus =0     tenta = 8     345 71 36 1 14 14 6 467.0 
+tenta_plus =0     tenta = 9     349 73 34 1 14 14 6 463.8 
+tenta_plus =0     tenta = 10     349 74 34 1 14 14 6 464.8 
+
+ tenta_plus =0     tenta = 1     342 75 35 1 14 14 6 467.4 
+tenta_plus =0     tenta = 2     347 72 35 1 14 14 7 472.4 
+
+ tenta_plus =0     tenta = 1     343 70 34 1 14 14 6 459.6 
+tenta_plus =0     tenta = 2     340 70 36 1 14 14 6 465.0 
+tenta_plus =0     tenta = 3     349 71 35 1 14 14 6 464.8 
+tenta_plus =0     tenta = 4     348 71 35 1 14 14 6 464.6 
+
+ tenta_plus =1     tenta = 1     341 74 36 1 15 15 7 485.2 
+tenta_plus =1     tenta = 2     347 73 34 1 14 14 6 463.4 
+tenta_plus =1     tenta = 3     346 71 36 1 15 14 6 472.2 
+tenta_plus =2     tenta = 4     345 74 37 1 15 15 7 489.0 
+tenta_plus =2     tenta = 5     345 74 36 1 14 14 6 470.0 
+tenta_plus =2     tenta = 6     345 71 36 1 14 14 7 474.0 
+tenta_plus =2     tenta = 7     348 71 36 1 14 14 7 474.6 
+tenta_plus =2     tenta = 8     349 72 34 1 15 15 6 471.8 
+tenta_plus =2     tenta = 9     350 72 34 1 14 14 6 463.0 
+tenta_plus =2     tenta = 10     343 74 34 1 14 14 6 463.6 
+tenta_plus =3     tenta = 11     345 72 37 1 15 15 7 487.0 
+tenta_plus =3     tenta = 12     340 70 34 1 14 14 6 459.0 
+tenta_plus =3     tenta = 13     347 75 36 1 14 15 6 475.4 
+tenta_plus =3     tenta = 14     349 70 35 1 15 14 6 468.8 
+tenta_plus =3     tenta = 15     349 75 34 1 14 14 6 465.8 
+tenta_plus =3     tenta = 16     341 70 36 1 14 14 6 465.2 
+tenta_plus =4     tenta = 17     349 72 37 1 15 15 7 487.8 
+tenta_plus =4     tenta = 18     341 70 36 1 14 14 7 472.2 
+tenta_plus =4     tenta = 19     348 73 36 1 14 14 6 469.6 
+tenta_plus =4     tenta = 20     342 71 35 1 14 14 6 463.4 
+
+ tenta_plus =0     tenta = 1     347 71 34 1 14 14 7 468.4 
+tenta_plus =0     tenta = 2     340 70 36 1 14 14 7 472.0 
+tenta_plus =0     tenta = 3     340 73 35 1 14 14 6 465.0 
+tenta_plus =0     tenta = 4     348 72 34 1 14 14 7 469.6 
+
+ tenta_plus =0     tenta = 1     346 70 36 1 14 14 6 466.2 
+
+ tenta_plus =0     tenta = 1     345 71 34 1 14 14 6 461.0 
+tenta_plus =1     tenta = 2     342 74 38 1 15 14 7 487.4 
+tenta_plus =1     tenta = 3     349 70 36 1 15 14 6 471.8 
+tenta_plus =1     tenta = 4     350 71 34 1 14 14 6 462.0 
+tenta_plus =1     tenta = 5     350 71 36 1 14 14 6 468.0 
+tenta_plus =1     tenta = 6     349 70 34 1 14 14 7 467.8 
+tenta_plus =2     tenta = 7     390 73 38 1 15 15 7 500.0 
+tenta_plus =2     tenta = 8     345 74 34 1 14 14 7 471.0 
+tenta_plus =2     tenta = 9     341 75 34 1 14 14 6 464.2 
+tenta_plus =2     tenta = 10     347 73 36 1 14 14 6 469.4 
+tenta_plus =2     tenta = 11     348 74 36 1 14 14 6 470.6 
+tenta_plus =2     tenta = 12     347 73 35 1 14 14 6 466.4 
+tenta_plus =2     tenta = 13     348 74 34 1 14 14 6 464.6 
+tenta_plus =2     tenta = 14     344 74 34 1 14 14 6 463.8 
+tenta_plus =2     tenta = 15     345 71 35 1 14 14 6 464.0 
+tenta_plus =3     tenta = 16     347 75 37 1 15 15 7 490.4 
+tenta_plus =4     tenta = 17     342 74 37 1 15 15 7 488.4 
+tenta_plus =4     tenta = 18     349 74 35 1 14 14 6 467.8 
+tenta_plus =4     tenta = 19     348 70 34 1 14 14 6 460.6 
+
+ tenta_plus =0     tenta = 1     347 74 36 1 15 14 6 0 93.77% 475.4 
+
+ tenta_plus =0     tenta = 1     340 70 34 1 15 14 6 0 91.52% 464.0 
+tenta_plus =0     tenta = 2     346 73 36 1 15 14 6 0 93.53% 474.2 
+
+ tenta_plus =0     tenta = 1     342 71 35 1 15 14 6 0 92.39% 468.4 
+tenta_plus =0     tenta = 2     341 73 36 1 15 14 6 0 93.33% 473.2 
+tenta_plus =0     tenta = 3     350 73 35 1 15 14 7 0 94.48% 479.0 
+tenta_plus =0     tenta = 4     348 72 34 1 15 14 6 0 92.23% 467.6 
+tenta_plus =0     tenta = 5     347 71 34 1 15 14 6 0 91.99% 466.4 
+tenta_plus =0     tenta = 6     342 71 35 1 15 14 6 0 92.39% 468.4 
+tenta_plus =0     tenta = 7     349 74 34 1 15 14 6 0 92.66% 469.8 
+tenta_plus =0     tenta = 8     344 71 34 1 15 15 6 0 92.66% 469.8 
+tenta_plus =0     tenta = 9     344 71 34 1 15 14 6 0 91.87% 465.8 
+tenta_plus =0     tenta = 10     340 75 34 1 15 14 6 0 92.5% 469.0 
+tenta_plus =0     tenta = 11     346 74 34 1 15 15 6 0 93.33% 473.2 
+tenta_plus =0     tenta = 12     341 74 34 1 15 14 6 0 92.35% 468.2 
+tenta_plus =0     tenta = 13     341 74 34 1 15 14 6 0 92.35% 468.2 
+tenta_plus =0     tenta = 14     346 72 34 1 15 14 6 0 92.15% 467.2 
+tenta_plus =0     tenta = 15     348 75 34 1 15 14 6 0 92.82% 470.6 
+tenta_plus =0     tenta = 16     342 71 36 1 15 14 6 0 92.98% 471.4 
+tenta_plus =0     tenta = 17     346 71 35 1 15 14 7 0 93.93% 476.2 
+tenta_plus =0     tenta = 18     348 71 35 1 15 14 6 0 92.62% 469.6 
+tenta_plus =0     tenta = 19     347 72 35 1 15 14 6 0 92.78% 470.4 
+tenta_plus =0     tenta = 20     341 73 36 1 15 14 6 0 93.33% 473.2 
+tenta_plus =0     tenta = 21     348 72 34 1 15 14 6 0 92.23% 467.6 
+tenta_plus =0     tenta = 22     347 75 34 1 15 14 6 0 92.78% 470.4 
+tenta_plus =0     tenta = 23     349 72 34 1 15 14 6 0 92.27% 467.8 
+tenta_plus =0     tenta = 24     349 72 34 1 15 14 6 0 92.27% 467.8 
+tenta_plus =0     tenta = 25     340 70 36 1 15 14 6 0 92.7% 470.0 
+tenta_plus =0     tenta = 26     349 72 36 1 15 14 6 0 93.45% 473.8 
+tenta_plus =0     tenta = 27     350 75 36 1 15 14 6 0 94.08% 477.0 
+tenta_plus =0     tenta = 28     349 75 34 1 15 14 6 0 92.86% 470.8 
+tenta_plus =0     tenta = 29     343 72 36 1 15 15 6 0 94.0% 476.6 

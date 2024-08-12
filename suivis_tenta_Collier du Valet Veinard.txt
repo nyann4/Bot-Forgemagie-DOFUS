@@ -1,0 +1,62 @@
+tenta_plus =0     tenta = 0     345 79 48 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 80.56% poid actuel :634.0 max :787 
+tenta_plus =0     tenta = 0     350 80 47 5 0 1 20 8 10 7 7 20   83.48% poid actuel :657.0 max :787 
+tenta_plus =0     tenta = 0     350 80 48 5 0 1 20 3 10 7 7 20   81.96% poid actuel :645.0 max :787 
+tenta_plus =0     tenta = 0     346 80 48 5 0 1 20 3 10 7 7 20   81.86% poid actuel :644.2 max :787 
+tenta_plus =0     tenta = 0     346 80 46 5 0 1 17 13 10 7 7 20   83.0% poid actuel :653.2 max :787 
+tenta_plus =0     tenta = 0     346 78 47 5 0 1 20 13 10 7 7 20   85.03% poid actuel :669.2 max :787 
+tenta_plus =0     tenta = 0     349 80 46 5 0 1 20 6 10 7 7 20   82.31% poid actuel :647.8 max :787 
+tenta_plus =0     tenta = 0     349 80 48 5 0 1 20 4 10 7 7 20 1 % Dommages aux sorts 82.31% poid actuel :647.8 max :787 
+####
+tenta_plus =0     tenta = 0     344 78 47 5 0 1 20 0 10 7 7 20   80.03% poid actuel :629.8 max :787 
+tenta_plus =0     tenta = 0     347 80 46 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 79.97% poid actuel :629.4 max :787 
+tenta_plus =0     tenta = 0     343 80 47 5 0 1 20 0 10 7 7 20   80.25% poid actuel :631.6 max :787 
+tenta_plus =0     tenta = 0     346 80 46 5 0 1 20 0 10 7 7 20   79.95% poid actuel :629.2 max :787 
+tenta_plus =0     tenta = 0     350 80 46 5 0 1 20 4 10 7 7 20   81.58% poid actuel :642.0 max :787 
+tenta_plus =0     tenta = 0     350 79 46 5 0 1 20 0 10 7 7 20   79.92% poid actuel :629.0 max :787 
+tenta_plus =0     tenta = 0     350 80 48 5 0 1 20 0 10 7 7 20   80.81% poid actuel :636.0 max :787 
+tenta_plus =0     tenta = 0     350 78 47 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 80.18% poid actuel :631.0 max :787 
+tenta_plus =0     tenta = 0     350 80 48 5 0 1 20 0 10 7 7 20   80.81% poid actuel :636.0 max :787 
+tenta_plus =0     tenta = 0     348 80 48 5 0 1 20 9 10 7 7 20   84.19% poid actuel :662.6 max :787 
+tenta_plus =0     tenta = 0     348 80 48 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 80.76% poid actuel :635.6 max :787 
+tenta_plus =0     tenta = 0     344 79 46 5 0 1 20 0 10 7 7 20   79.77% poid actuel :627.8 max :787 
+tenta_plus =0     tenta = 0     347 80 46 5 0 1 20 0 10 7 7 20   79.97% poid actuel :629.4 max :787 
+tenta_plus =0     tenta = 0     348 78 48 5 0 1 20 0 10 7 7 20   80.51% poid actuel :633.6 max :787 
+tenta_plus =0     tenta = 0     349 80 49 5 0 1 20 11 10 7 7 20   85.36% poid actuel :671.8 max :787 
+tenta_plus =0     tenta = 0     345 80 47 5 0 1 20 0 10 7 7 20   80.3% poid actuel :632.0 max :787 
+tenta_plus =0     tenta = 0     349 80 48 5 0 1 20 0 10 7 7 20   80.79% poid actuel :635.8 max :787 
+tenta_plus =0     tenta = 0     343 80 46 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 79.87% poid actuel :628.6 max :787 
+tenta_plus =0     tenta = 0     346 78 50 5 0 1 20 0 10 7 7 20 1 % Dommages aux sorts 81.22% poid actuel :639.2 max :787 
+tenta_plus =0     tenta = 0     346 79 50 5 0 0 20 0 10 7 7 20   74.87% poid actuel :589.2 max :787 
+
+tenta_plus =0     tenta = 0     348 78 47 5 0 1 20 0 10 7 7 20 2 % Rï¿½sistance Air 80.13% poid actuel :630.6 max :787 
+tenta_plus =0     tenta = 0     350 80 47 5 0 1 20 0 10 7 7 20 1 % Rï¿½sistance Air 80.43% poid actuel :633.0 max :787 
+tenta_plus =0     tenta = 0     349 80 47 5 0 1 20 0 10 7 7 20 1 % Rï¿½sistance Air 80.41% poid actuel :632.8 max :787 
+tenta_plus =0     tenta = 0     346 78 48 5 0 1 20 4 10 7 7 20 2 % Rï¿½sistance Air 81.98% poid actuel :645.2 max :787 
+tenta_plus =0     tenta = 0     346 80 47 5 0 1 20 0 10 7 7 20 2 % Rï¿½sistance Air 80.33% poid actuel :632.2 max :787 
+tenta_plus =0     tenta = 0     350 78 47 5 0 1 20 9 10 7 7 20 2 % Rï¿½sistance Air 83.61% poid actuel :658.0 max :787 
+
+
+tenta_plus =0     tenta = 0     347 80 48 5 0 1 20 0 10 7 7 20   80.74% poid actuel :635.4 max :787 
+tenta_plus =0     tenta = 0     347 80 47 5 0 1 20 4 10 7 7 20 1 % Résistance Air 81.88% poid actuel :644.4 max :787 
+tenta_plus =0     tenta = 0     349 80 47 5 0 1 20 1 10 7 7 20 3 % Résistance Air 80.79% poid actuel :635.8 max :787 
+tenta_plus =0     tenta = 0     343 80 48 5 0 1 20 0 10 7 7 20 1 % Résistance Air 80.64% poid actuel :634.6 max :787 
+tenta_plus =0     tenta = 0     341 79 46 5 0 1 20 0 10 7 7 20 3 % Résistance Air 79.7% poid actuel :627.2 max :787 
+tenta_plus =0     tenta = 0     348 79 46 5 0 1 20 0 10 7 7 20   79.87% poid actuel :628.6 max :787 
+tenta_plus =0     tenta = 0     342 80 48 5 0 1 20 0 10 7 7 20 1 % Résistance Air 80.61% poid actuel :634.4 max :787 
+tenta_plus =0     tenta = 0     342 80 47 5 0 1 19 12 10 7 7 20   84.17% poid actuel :662.4 max :787 
+tenta_plus =0     tenta = 0     349 78 46 5 0 1 20 0 10 7 7 20 3 % Résistance Air 79.77% poid actuel :627.8 max :787 
+tenta_plus =0     tenta = 0     349 80 46 5 0 1 20 7 10 7 7 20 2 % Résistance Air 82.69% poid actuel :650.8 max :787 
+tenta_plus =0     tenta = 0     342 80 50 5 0 1 20 11 10 7 7 20 2 % Résistance Air 85.57% poid actuel :673.4 max :787 
+tenta_plus =0     tenta = 0     347 78 46 5 0 1 20 0 10 7 7 20 2 % Résistance Air 79.72% poid actuel :627.4 max :787 
+tenta_plus =0     tenta = 0     347 80 49 5 0 1 20 0 10 7 7 20 3 % Résistance Air 81.12% poid actuel :638.4 max :787 
+tenta_plus =0     tenta = 0     350 80 49 5 0 1 20 0 10 7 7 20 2 % Résistance Air 81.19% poid actuel :639.0 max :787 
+tenta_plus =0     tenta = 0     350 80 47 5 0 1 20 0 10 7 7 20   80.43% poid actuel :633.0 max :787 
+tenta_plus =0     tenta = 0     345 80 49 5 0 1 20 15 10 7 7 20 2 % Résistance Air 86.79% poid actuel :683.0 max :787 
+tenta_plus =0     tenta = 0     349 80 48 5 0 1 20 2 10 7 7 20 2 % Résistance Air 81.55% poid actuel :641.8 max :787 
+tenta_plus =0     tenta = 0     350 80 47 5 0 1 20 0 10 7 7 20 2 % Résistance Air 80.43% poid actuel :633.0 max :787 
+tenta_plus =0     tenta = 0     348 80 47 5 0 1 20 0 10 7 7 20 3 % Résistance Air 80.38% poid actuel :632.6 max :787 
+tenta_plus =0     tenta = 0     349 78 47 5 0 1 20 0 10 7 7 20 2 % Résistance Air 80.15% poid actuel :630.8 max :787 
+tenta_plus =0     tenta = 0     347 80 48 5 0 1 20 13 10 7 7 20 2 % Résistance Air 85.69% poid actuel :674.4 max :787 
+tenta_plus =0     tenta = 0     349 80 46 5 0 1 20 0 10 7 7 20 2 % Résistance Air 80.03% poid actuel :629.8 max :787 
+tenta_plus =0     tenta = 0     349 80 47 5 0 0 20 0 10 7 7 20 3 % Résistance Air 73.93% poid actuel :581.8 max :787 
+tenta_plus =0     tenta = 0     349 80 47 5 0 1 20 0 10 7 7 20 2 % Résistance Air 80.41% poid actuel :632.8 max :787 

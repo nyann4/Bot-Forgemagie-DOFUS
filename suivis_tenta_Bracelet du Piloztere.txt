@@ -1,0 +1,191 @@
+tenta_plus =0     tenta = 0     292 46 4 2 8 8 8 10 near perf 92.27% 472.4 
+tenta_plus =0     tenta = 0     295 49 4 2 10 10 10 10 2Dommages Critiques 101.36% poid actuel :519.0 max :512.0 
+#déjà noter
+
+ tenta_plus =0     tenta = 1     292 48 4 2 8 8 8 10 near perf 93.05% poid actuel :476.4 max :512.0 
+
+ tenta_plus =0     tenta = 1     295 48 4 2 9 8 8 10 near perf 94.14% poid actuel :482.0 max :512.0 
+
+ tenta_plus =0     tenta = 1     295 47 4 2 8 9 9 10 near perf 94.73% poid actuel :485.0 max :512.0 
+tenta_plus =0     tenta = 2     300 47 4 2 8 8 8 10 near perf 92.97% poid actuel :476.0 max :512.0 
+
+ tenta_plus =0     tenta = 1     294 50 4 2 10 9 9 10 near perf 97.81% poid actuel :500.8 max :512.0 
+
+ tenta_plus =0     tenta = 1     294 50 4 2 10 9 9 10 near perf 97.81% poid actuel :500.8 max :512.0 
+
+ tenta_plus =0     tenta = 1     290 47 4 2 9 8 8 10 near perf 93.55% poid actuel :479.0 max :512.0 
+tenta_plus =0     tenta = 2     299 46 4 2 8 9 8 10 near perf 93.52% poid actuel :478.8 max :512.0 
+tenta_plus =0     tenta = 3     298 48 4 2 8 9 8 10 near perf 94.26% poid actuel :482.6 max :512.0 
+tenta_plus =0     tenta = 4     298 48 4 2 8 9 9 10 near perf 95.23% poid actuel :487.6 max :512.0 
+tenta_plus =0     tenta = 5     295 48 4 2 8 8 9 10 near perf 94.14% poid actuel :482.0 max :512.0 
+tenta_plus =0     tenta = 6     294 50 4 2 10 10 10 10 1 Dommage Critiques 99.77% poid actuel :510.8 max :512.0 
+tenta_plus =0     tenta = 7     298 47 4 2 9 9 8 10 near perf 94.84% poid actuel :485.6 max :512.0 
+tenta_plus =0     tenta = 8     297 48 4 2 9 9 8 10 near perf 95.2% poid actuel :487.4 max :512.0 
+tenta_plus =0     tenta = 9     293 48 4 2 10 9 9 10 near perf 96.99% poid actuel :496.6 max :512.0 
+tenta_plus =0     tenta = 10     293 48 4 2 9 9 9 10 near perf 96.02% poid actuel :491.6 max :512.0 
+tenta_plus =0     tenta = 11     299 47 4 2 8 9 8 10 near perf 93.91% poid actuel :480.8 max :512.0 
+tenta_plus =0     tenta = 12     294 47 4 2 8 8 8 10 near perf 92.73% poid actuel :474.8 max :512.0 
+tenta_plus =0     tenta = 13     295 48 4 2 8 8 10 10 near perf 95.12% poid actuel :487.0 max :512.0 
+tenta_plus =0     tenta = 14     295 48 4 2 8 9 9 10 near perf 95.12% poid actuel :487.0 max :512.0 
+tenta_plus =0     tenta = 15     298 47 4 2 8 9 9 10 near perf 94.84% poid actuel :485.6 max :512.0 
+tenta_plus =0     tenta = 16     298 50 4 2 9 9 9 10 near perf 96.99% poid actuel :496.6 max :512.0 
+
+ tenta_plus =0     tenta = 1     296 46 4 2 9 8 8 10 near perf 93.4% poid actuel :478.2 max :512.0 
+tenta_plus =0     tenta = 2     296 47 4 2 8 8 8 10 near perf 92.81% poid actuel :475.2 max :512.0 
+
+ tenta_plus =0     tenta = 1     300 47 4 2 8 8 8 10   92.97% poid actuel :476.0 max :512.0 
+ ###########################
+ 
+
+ tenta_plus =0     tenta = 1     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+
+ tenta_plus =0     tenta = 1     300 49 4 2 10 9 9 10   97.66% poid actuel :500.0 max :512.0 
+tenta_plus =0     tenta = 2     305 46 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 3     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 4     300 47 4 2 9 9 9 10   95.9% poid actuel :491.0 max :512.0 
+tenta_plus =0     tenta = 5     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 6     295 46 4 2 10 10 9 10   97.27% poid actuel :498.0 max :512.0 
+tenta_plus =0     tenta = 7     298 49 4 2 9 9 9 10   96.6% poid actuel :494.6 max :512.0 
+tenta_plus =0     tenta = 8     295 46 4 2 9 9 9 10   95.31% poid actuel :488.0 max :512.0 
+tenta_plus =0     tenta = 9     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 10     298 46 4 2 9 9 9 10   95.43% poid actuel :488.6 max :512.0 
+tenta_plus =0     tenta = 11     299 47 4 2 9 10 9 10   96.84% poid actuel :495.8 max :512.0 
+tenta_plus =0     tenta = 12     295 48 4 2 9 10 9 10   97.07% poid actuel :497.0 max :512.0 
+tenta_plus =0     tenta = 13     295 49 4 2 10 9 9 10   97.46% poid actuel :499.0 max :512.0 
+tenta_plus =0     tenta = 14     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 15     295 50 4 2 10 9 9 10   97.85% poid actuel :501.0 max :512.0 
+tenta_plus =0     tenta = 16     305 47 4 2 9 9 9 10   96.09% poid actuel :492.0 max :512.0 
+tenta_plus =0     tenta = 17     298 46 4 2 9 9 9 10   95.43% poid actuel :488.6 max :512.0 
+tenta_plus =0     tenta = 18     299 50 4 2 9 9 9 10   97.03% poid actuel :496.8 max :512.0 
+tenta_plus =0     tenta = 19     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 20     296 48 4 2 9 9 9 10   96.13% poid actuel :492.2 max :512.0 
+tenta_plus =0     tenta = 21     295 46 4 2 9 9 9 10   95.31% poid actuel :488.0 max :512.0 
+
+ tenta_plus =0     tenta = 1     294 48 4 2 9 9 9 10   96.05% poid actuel :491.8 max :512.0 
+tenta_plus =0     tenta = 2     294 50 4 2 10 9 9 10   97.81% poid actuel :500.8 max :512.0 
+
+ tenta_plus =0     tenta = 1     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 2     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+
+ tenta_plus =0     tenta = 1     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 2     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 3     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 4     296 48 4 2 9 9 9 10   96.13% poid actuel :492.2 max :512.0 
+tenta_plus =0     tenta = 5     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 6     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 7     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 8     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 9     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 10     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 11     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 12     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 13     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
+tenta_plus =0     tenta = 14     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 15     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 16     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 17     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 18     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 19     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 20     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 21     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 22     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
+tenta_plus =0     tenta = 23     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
+tenta_plus =0     tenta = 24     294 48 4 2 9 9 9 10   96.05% poid actuel :491.8 max :512.0 
+tenta_plus =0     tenta = 25     294 48 4 2 9 9 9 10   96.05% poid actuel :491.8 max :512.0 
+tenta_plus =0     tenta = 26     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 27     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 28     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 29     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 30     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 31     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+
+ tenta_plus =0     tenta = 1     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 2     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 3     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 4     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 5     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 6     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 7     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
+tenta_plus =0     tenta = 8     298 49 4 2 9 9 9 10   96.6% poid actuel :494.6 max :512.0 
+tenta_plus =0     tenta = 9     295 46 4 2 9 9 9 10   95.31% poid actuel :488.0 max :512.0 
+tenta_plus =0     tenta = 10     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 11     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 12     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 13     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 14     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 15     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 16     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 17     298 46 4 2 9 9 9 10   95.43% poid actuel :488.6 max :512.0 
+tenta_plus =0     tenta = 18     298 49 4 2 9 9 9 10   96.6% poid actuel :494.6 max :512.0 
+tenta_plus =0     tenta = 19     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 20     294 48 4 2 9 9 9 10   96.05% poid actuel :491.8 max :512.0 
+tenta_plus =0     tenta = 21     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 22     300 46 4 2 9 9 9 10   95.51% poid actuel :489.0 max :512.0 
+tenta_plus =0     tenta = 23     300 47 4 2 9 9 9 10   95.9% poid actuel :491.0 max :512.0 
+tenta_plus =0     tenta = 24     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 25     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 26     299 48 4 2 9 9 9 10   96.25% poid actuel :492.8 max :512.0 
+tenta_plus =0     tenta = 27     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
+tenta_plus =0     tenta = 28     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+
+ tenta_plus =0     tenta = 1     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 2     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 3     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 4     298 46 4 2 9 9 9 10   95.43% poid actuel :488.6 max :512.0 
+tenta_plus =0     tenta = 5     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 6     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 7     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 8     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 9     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 10     300 47 4 2 9 9 9 10   95.9% poid actuel :491.0 max :512.0 
+tenta_plus =0     tenta = 11     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 12     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 13     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 14     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 15     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 16     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 17     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 18     299 46 4 2 9 9 9 10   95.47% poid actuel :488.8 max :512.0 
+tenta_plus =0     tenta = 19     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 20     296 48 4 2 9 9 9 10   96.13% poid actuel :492.2 max :512.0 
+tenta_plus =0     tenta = 21     311 46 4 2 9 9 9 10   95.94% poid actuel :491.2 max :512.0 
+tenta_plus =0     tenta = 22     298 46 4 2 9 9 9 10   95.43% poid actuel :488.6 max :512.0 
+tenta_plus =0     tenta = 23     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 24     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 25     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 26     299 50 4 2 9 9 9 10   97.03% poid actuel :496.8 max :512.0 
+tenta_plus =0     tenta = 27     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 28     294 48 4 2 9 9 9 10   96.05% poid actuel :491.8 max :512.0 
+tenta_plus =0     tenta = 29     300 50 4 2 9 9 9 10   97.07% poid actuel :497.0 max :512.0 
+tenta_plus =0     tenta = 30     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 31     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 32     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 33     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 34     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 35     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 36     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 37     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 38     294 46 4 2 9 9 9 10   95.27% poid actuel :487.8 max :512.0 
+tenta_plus =0     tenta = 39     294 49 4 2 9 9 9 10   96.45% poid actuel :493.8 max :512.0 
+tenta_plus =0     tenta = 40     296 48 4 2 9 9 9 10   96.13% poid actuel :492.2 max :512.0 
+tenta_plus =0     tenta = 41     300 47 4 2 9 9 9 10   95.9% poid actuel :491.0 max :512.0 
+tenta_plus =0     tenta = 42     296 47 4 2 9 9 9 10   95.74% poid actuel :490.2 max :512.0 
+tenta_plus =0     tenta = 43     295 48 4 2 9 9 9 10   96.09% poid actuel :492.0 max :512.0 
+tenta_plus =0     tenta = 44     299 48 4 2 9 9 9 10   96.25% poid actuel :492.8 max :512.0 
+tenta_plus =0     tenta = 45     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 46     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 47     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 48     294 47 4 2 9 9 9 10   95.66% poid actuel :489.8 max :512.0 
+tenta_plus =0     tenta = 49     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 50     300 48 4 2 9 9 9 10   96.29% poid actuel :493.0 max :512.0 
+tenta_plus =0     tenta = 51     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 52     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 53     295 47 4 2 9 9 9 10   95.7% poid actuel :490.0 max :512.0 
+tenta_plus =0     tenta = 54     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 55     297 48 4 2 9 9 9 10   96.17% poid actuel :492.4 max :512.0 
+tenta_plus =0     tenta = 56     296 46 4 2 9 9 9 10   95.35% poid actuel :488.2 max :512.0 
+tenta_plus =0     tenta = 57     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 58     297 47 4 2 9 9 9 10   95.78% poid actuel :490.4 max :512.0 
+tenta_plus =0     tenta = 59     299 47 4 2 9 9 9 10   95.86% poid actuel :490.8 max :512.0 
+tenta_plus =0     tenta = 60     297 46 4 2 9 9 9 10   95.39% poid actuel :488.4 max :512.0 
+tenta_plus =0     tenta = 61     298 47 4 2 9 9 9 10   95.82% poid actuel :490.6 max :512.0 
